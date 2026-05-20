@@ -1,5 +1,5 @@
 # About Me:
-Hi there! I’m a junior at DePaul University in Chicago, originally from Schaumburg, Illinois. I’m passionate about cybersecurity, networking, and data science, and I’m excited to contribute to these fields.<br>
+Hi there! I’m a junior at DePaul University in Chicago, originally from Schaumburg. I’m passionate about cybersecurity, networking, and data science, and I’m excited to contribute to these fields.<br>
 
 
 ## Socials:
