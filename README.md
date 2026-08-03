@@ -1,5 +1,5 @@
 # About Me:
-Hi there! I’m a Senior at DePaul University in Chicago, originally from Schaumburg. I’m passionate about cybersecurity, coding, and data, and I’m excited to contribute to these fields.<br>
+Hi there! I’m a senior at DePaul University in Chicago, originally from Schaumburg. I’m passionate about cybersecurity, coding, and data, and I’m excited to contribute to these fields.<br>
 
 
 ## Socials:
